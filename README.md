@@ -182,4 +182,4 @@ MIT
 
 ## Author
 
-Built with ❤️ using Next.js, FastAPI, and Groq
+Built by legacyttb using Next.js, FastAPI, and Groq
